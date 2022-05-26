@@ -16,4 +16,4 @@
 
 * K-Means
 
-#### Then, I also utilize the ensemble method by combining these models and selecting an output based on “majority rules”.
+#### Then, I also utilize the ensemble method by combining these models and selecting an output based on “majority rules”. The ensemble model developed an accuracy of 98.3% and within the models listed, the LDA model had the highest accuracy with 99.1%.
