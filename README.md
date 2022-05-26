@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-Project
 
-#### This project was done during my HarvardX Data Science Certificate as a capstone to my Machine Learning course. In this project, I utilize breast cancer diagnosis biopsy samples for tumors that were benign or malignant. I utilize the following ML models… 
+#### This project was done during my HarvardX Data Science Certificate as a capstone to my Machine Learning course. In this project, I utilize breast cancer diagnosis biopsy samples for tumors that were benign or malignant to develop a machine learning model to predict malignant or benign tumors. I utilize the following ML models… 
 
 * Log Regression
 
